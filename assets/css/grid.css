@@ -1,0 +1,21 @@
+#wrap{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid-header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 16px;
+}
+
+.grid-header__item{
+    display: flex;
+    flex-direction: column;
+}
