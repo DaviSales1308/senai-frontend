@@ -65,6 +65,7 @@ h2{
     position: relative;
     color: var(--font-small);
     margin-bottom: 16px;
+    font-size: 20px;
 }
 
 h2::after{
@@ -99,5 +100,3 @@ p {
     background: var(--border);
     color: var(--img-bg);
 }
-
-
