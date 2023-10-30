@@ -32,3 +32,12 @@
     flex-direction: row;
     gap: 50px;
 }
+
+@media screen and (max-width: 500px){
+    .grid-header{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 16px;
+    }
+}

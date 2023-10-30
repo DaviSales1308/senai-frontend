@@ -1,5 +1,5 @@
 const portifolio ={
-    username: "Davi Sales",
+    username: "Davi Armando Lira Sales",
     role: "Estudante",
     social: [],
     resume: "Lorem ipsum dolor sit amet consectetur adipisicing elit."+
